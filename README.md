@@ -1,23 +1,24 @@
-# Welcome to My Paypal
-***
+Welcome to My Paypal ML Fraud Detection Project!
 
-## Task
-TODO - What is the problem? And where is the challenge?
+Task:
+Our project's main objective was to employ a Machine Learning (ML) model to accurately detect fraudulent transactions.
 
-## Description
-TODO - How have you solved the problem?
+Description:
+To achieve this, we utilized various machine learning models and Python modules. The following modules were imported:
 
-## Installation
-TODO - How to install your project? npm install? make? make re?
+- Matplotlib, Seaborn, and Plotly for data visualizations.
+- Pandas and NumPy for data wrangling and manipulation.
+- Sklearn modules for implementing the machine learning models.
+- XGboost modules for the XGboostClassifier model.
+- Warnings module for handling and ignoring warnings.
+- Imbalanced module for dealing with imbalanced datasets.
+- Bayesian optimizer for optimization purposes.
 
-## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+Installation:
+No specific installation is required for the project. However, it is essential to install all the necessary dependencies to ensure the project works correctly.
 
-### The Core Team
+Usage:
+This project was developed entirely within Jupyter Notebook. To execute it, simply open the Jupyter Notebook, navigate to the "Menu" section, click on "Cells," and select "Run All Cells."
 
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+The Core Team:
+Samuel Joshua Adamu
