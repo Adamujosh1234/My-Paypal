@@ -1,30 +1,26 @@
 Welcome to My Paypal
-Task
-The Task for this project was to implementy any Machine Learning (ML) model of our choice to be able to accurately
-identify fraudulent Transactions.
 
-Description
-I used a variety of machine learning models and different python modules to achieve execute this task. The imported modules are
-listed below
+Task:
+Our project's main objective was to employ a Machine Learning (ML) model to accurately detect fraudulent transactions.
 
-    matplotlib, seaborn and plotly modules for visualizations
-    pandas  and numpy modules for data wrangling or manipulations
-    sklearn modules for all machine learning models used in the project.
-    XGboost modules for the XGboostClassifier model.
-    warnings module for ignoring warnings in the project.
-    imbalanced module for handling imbalanced datasets
-    bayesian optimizier for optimization
+Description:
+To achieve this, we utilized various machine learning models and Python modules. The following modules were imported:
 
+- Matplotlib, Seaborn, and Plotly for data visualizations.
+- Pandas and NumPy for data wrangling and manipulation.
+- Sklearn modules for implementing the machine learning models.
+- XGboost modules for the XGboostClassifier model.
+- Warnings module for handling and ignoring warnings.
+- Imbalanced module for dealing with imbalanced datasets.
+- Bayesian optimizer for optimization purposes.
 
-Installation
-The Project does not need anyform of Installation, however, all the dependencies MUST be installed
-before it can work as it should.
+Installation:
+No specific installation is required for the project. However, it is essential to install all the necessary dependencies to ensure the project works correctly.
 
-Usage
-The project has been done entirely in jupyter Notebook. While in jupyter Notebook, you can go to the 
-Menu , click on cells, and then run all cells. 
+Usage:
+This project was developed entirely within Jupyter Notebook. To execute it, simply open the Jupyter Notebook, navigate to the "Menu" section, click on "Cells," and select "Run All Cells."
 
-The Core Team
+The Core Team:
 Samuel Joshua Adamu
-
-The dataset was too large to be pushed to the repository using git push as it kept raising errors multiple times, So here is the link to the dataset used in the project: https://storage.googleapis.com/qwasar-public/track-ds/my_paypal_creditcard.csv
+The dataset used in this file is too large to be pushed to the repository
+So here is the link to the data: https://storage.googleapis.com/qwasar-public/track-ds/my_paypal_creditcard.csv
