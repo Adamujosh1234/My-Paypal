@@ -23,6 +23,6 @@ This project was developed entirely within Jupyter Notebook. To execute it, simp
 The Core Team:
 Samuel Joshua Adamu
 
-the dataset was too large to be pushed to the repository
-so here is the link to the dataset used in te project:
+The dataset was too large to be pushed to the repository
+So here is the link to the dataset used in the project:
     https://storage.googleapis.com/qwasar-public/track-ds/my_paypal_creditcard.csv
