@@ -1,10 +1,10 @@
 Welcome to My Paypal ML Fraud Detection Project!
 
 Task:
-Our project's main objective was to employ a Machine Learning (ML) model to accurately detect fraudulent transactions.
+The central focus of this project revolved around carefully selecting and implementing a preferred Machine Learning (ML) model to achieve an exceptional level of precision and accuracy in identifying fraudulent transactions.
 
 Description:
-To achieve this, we utilized various machine learning models and Python modules. The following modules were imported:
+For the successful realization of this project's goals, I extensively explored a diverse array of machine learning models and harnessed various Python modules. Among the imported modules, the following are listed to showcase the comprehensive approach undertaken.
 
 - Matplotlib, Seaborn, and Plotly for data visualizations.
 - Pandas and NumPy for data wrangling and manipulation.
@@ -15,14 +15,12 @@ To achieve this, we utilized various machine learning models and Python modules.
 - Bayesian optimizer for optimization purposes.
 
 Installation:
-No specific installation is required for the project. However, it is essential to install all the necessary dependencies to ensure the project works correctly.
+No specific installation is required for the project. However, it is essential to install all the necessary dependencies to ensure the project works correctly mostly plotly, seaborn, imblearn,numpy, pandas, scikit-learn, matplotlib, xgboost, scipy, scikit-optimize and bayesian-optemization.
 
 Usage:
-This project was developed entirely within Jupyter Notebook. To execute it, simply open the Jupyter Notebook, navigate to the "Menu" section, click on "Cells," and select "Run All Cells."
+This project was developed entirely within Jupyter Notebook. To execute it, simply open the Jupyter Notebook, navigate to the "Menu" section make sure all required modules are installed then click on "Cells," and select "Run All Cells."
 
 The Core Team:
 Samuel Joshua Adamu
 
-The dataset was too large to be pushed to the repository
-So here is the link to the dataset used in the project:
-    https://storage.googleapis.com/qwasar-public/track-ds/my_paypal_creditcard.csv
+The dataset was too large to be pushed to the repository using git push as it kept raising errors multiple times, So here is the link to the dataset used in the project: https://storage.googleapis.com/qwasar-public/track-ds/my_paypal_creditcard.csv
