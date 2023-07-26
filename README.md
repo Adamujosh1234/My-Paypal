@@ -1,23 +1,28 @@
 # Welcome to My Paypal
 ## Task
-The central focus of this project revolved around carefully selecting and implementing a preferred Machine Learning (ML) model to achieve an exceptional level of precision and accuracy in identifying fraudulent transactions.
+The Task for this project was to use any Machine Learning (ML) model of my choice to be able to accurately and precisely
+identify fraudulent Transactions.
 
 ## Description
-For the successful realization of this project's goals, I extensively explored a diverse array of machine learning models and harnessed various Python modules. Among the imported modules, the following are listed to showcase the comprehensive approach undertaken.
-
-1. Matplotlib, Seaborn, and Plotly for data visualizations.
-2. Pandas and NumPy for data wrangling and manipulation.
-3. Sklearn modules for implementing the machine learning models.
+I have used a variety of machine learning models and python modules to achieve this. The modules i used are
+listed below
+1. matplotlib, seaborn and plotly modules for visualizations
+2. pandas  and numpy modules for data wrangling or manipulations
+3. sklearn modules for all machine learning models used in the project.
 4. XGboost modules for the XGboostClassifier model.
-5. Warnings module for handling and ignoring warnings.
-6. Imbalanced module for dealing with imbalanced datasets.
-7. Bayesian optimizer for optimization purposes.
+5. warnings module for ignoring warnings in the project.
+6. imbalanced module for handling imbalanced datasets
+7. bayesian optimizier for optimization
 
 ## Installation
-No specific installation is required to make the project work aside from installing the necessary python modules. However, it is essential to install all the necessary dependencies to ensure the project works correctly.
+The Project does not need anyform of Installation, however, all the dependencies must be installed
+before it can work as it should.
 
 ## Usage
-This project was developed entirely within Jupyter Notebook. To execute it, simply open the Jupyter Notebook, navigate to the "Menu" section, click on "Cells," and select "Run All Cells" and wait patiently for the process to be completed.
+The project has been done entirely in jupyter Notebook. While in jupyter Notebook, you can go to the 
+`Menu` , click on `cells`, and then `run all cells`. 
+
+
 
 ### The Core Team
 Samuel Joshua Adamu(adamu-jo_s)
